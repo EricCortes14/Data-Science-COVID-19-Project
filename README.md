@@ -17,7 +17,7 @@ No one could have ever imagined the situation that the entire world would be liv
 * Amulya Yadagani, Graduate student in department of CS at UNCG
 * Rashmi Hassan Udaya Kumar,Graduate student in department of CS at UNCG
 * Serena Wisnewski, Undergraduate student in department of CS at UNCG
-* Eric Cortes Aguilera, Graduate student in department of CS at UNCG
+* Eric Cortes Aguilera, Undergraduate student in department of CS at UNCG
 
 ### Project Aim
 We intend to analyse the covid-19 data and a few enrichment datasets to draw meaningful insights from it. We also envision to develop models which can predict the information about the number of covid-19 cases and deaths across the various counties present in the United States of America and display this information supported by facts and stastics through a dashboard.  
