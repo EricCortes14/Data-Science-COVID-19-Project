@@ -26,5 +26,5 @@ We intend to analyse the covid-19 data and a few enrichment datasets to draw mea
 We are using Python3 as a programming lannguage and include code, narrative text, equations and rich output though Jupyter Notebooks. We are also making use of various python libraries in data science like Numpy, Pandas for scientific computation. 
 
 ### Setup
-The /src folder contains the Jupyter notebooks and the /data folder contains the the various data sets that we are using for the analysis. The detailed information and documnetation about this projec is inculded in the report which is present under the /docs folder of this repository.
+The /src folder contains the Jupyter notebooks and the /data folder contains the the various data sets that we are using for the analysis. The detailed information and documetation about this project is inculded in the report which is present under the /docs folder of this repository.
 
