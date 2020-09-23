@@ -22,7 +22,7 @@ No one could have ever imagined the situation that the entire world would be liv
 ### Project Aim
 We intend to analyse the covid-19 data and a few enrichment datasets to draw meaningful insights from it. We also envision to develop models which can predict the information about the number of covid-19 cases and deaths across the various counties present in the United States of America and display this information supported by facts and stastics through a dashboard.  
 
-### Technologies 
+### Technologies Used
 We are using Python3 as a programming lannguage and include code, narrative text, equations and rich output though Jupyter Notebooks. We are also making use of various python libraries in data science like Numpy, Pandas for scientific computation. 
 
 ### Setup
